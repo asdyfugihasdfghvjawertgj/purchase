@@ -1,0 +1,25 @@
+.navbar-expand-sm{
+    height: 25px;
+}
+.fab{
+    font-size: 15px;
+}
+.nav-link{
+    color:black;
+}
+.img{
+    position: relative;
+    left: -300px;
+    
+}
+.card-text{
+    font-weight: bold;
+}
+
+.button{
+    background-color: white;
+    color:black;
+    border-color: white; 
+    position: relative; 
+    left: 34px;
+}
